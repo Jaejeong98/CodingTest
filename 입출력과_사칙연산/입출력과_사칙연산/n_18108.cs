@@ -11,6 +11,7 @@ namespace 입출력과_사칙연산
         static void Main(String[] args)
         {
             Console.WriteLine(int.Parse(Console.ReadLine()) - 543);
+
         }
     }
 }
